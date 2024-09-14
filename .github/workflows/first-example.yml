@@ -11,5 +11,5 @@ jobs:
         - name: List the file in repo
           run: ls
             
-        # - name: see the content in the file
-        #   run: cat README.md
+        - name: see the content in the file
+          run: cat README.md
